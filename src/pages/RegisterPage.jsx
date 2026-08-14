@@ -15,6 +15,8 @@ function RegisterPage() {
 
                 <label htmlFor="password">Contraseña:</label>
                 <input type="password" id="password" name="password" required />
+
+                <button type="submit">Registrarse</button>
             </form>
 
         </>

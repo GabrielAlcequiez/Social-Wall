@@ -8,6 +8,8 @@ function LoginPage() {
 
                 <label htmlFor="password">Contraseña:</label>
                 <input type="password" id="password" name="password" required />
+
+                <button type="submit">Iniciar Sesión</button>
             </form>
         </div>
         
